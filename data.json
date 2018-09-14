@@ -1,0 +1,91 @@
+[{
+	"avengers": [{
+		"code": "111",
+		"name": "Iron Man",
+		"type": "superhero"
+	}, {
+		"code": "112",
+		"name": "Captain America",
+		"type": "superhero"
+	}, {
+		"code": "113",
+		"name": "Thor",
+		"type": "superhero"
+	}, {
+		"code": "114",
+		"name": "Hulk",
+		"type": "superhero"
+	}, {
+		"code": "115",
+		"name": "Black Widow",
+		"type": "superhero"
+	}, {
+		"code": "116",
+		"name": "Nick Fury",
+		"type": "human"
+	}, {
+		"code": "117",
+		"name": "Loki",
+		"type": "supervillain"
+	}]
+}, {
+	"spider-man": [{
+		"code": "121",
+		"name": "Spider-Man",
+		"type": "superhero"
+	}, {
+		"code": "122",
+		"name": "Mary Jane Watson",
+		"type": "human"
+	}, {
+		"code": "123",
+		"name": "Mary parker",
+		"type": "human"
+	}, {
+		"code": "124",
+		"name": "Harry Osborn",
+		"type": "human"
+	}, {
+		"code": "125",
+		"name": "Rhino",
+		"type": "supervillain"
+	}, {
+		"code": "131",
+		"name": "Wolverine",
+		"type": "superhero"
+	}, {
+		"code": "133",
+		"name": "Deadpool",
+		"type": "supervillain"
+	}]
+}, {
+	"wolverine": [{
+		"code": "131",
+		"name": "Wolverine",
+		"type": "superhero"
+	}, {
+		"code": "132",
+		"name": "Dientes De Sable",
+		"type": "supervillain"
+	}, {
+		"code": "133",
+		"name": "Deadpool",
+		"type": "supervillain"
+	}, {
+		"code": "134",
+		"name": "Gambito",
+		"type": "superhero"
+	}, {
+		"code": "135",
+		"name": "Charles Xavier",
+		"type": "superhero"
+	}, {
+		"code": "136",
+		"name": "Ciclope",
+		"type": "superhero"
+	}, {
+		"code": "136",
+		"name": "Tormenta",
+		"type": "superhero"
+	}]
+}]
